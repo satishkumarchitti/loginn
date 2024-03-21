@@ -1,0 +1,44 @@
+.main{
+    border: 20px;
+    margin:none;
+    padding:0%;
+    position: relative;
+}
+.img{
+    width: 1450px;
+    height:900px;
+    border: 20px solid black;
+    margin:none;
+    padding:20;
+    border-radius: 20px;
+}
+.child{
+    
+    width: 400px;
+    padding: 2px;
+    border: 9px solid white;
+    margin:auto;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 50px;
+    left: 500px;
+}
+.log{
+    width: 90%;
+    height:40%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 14px 30px;
+    border:3px;
+}
+.button{
+    padding: 10px;
+    border-radius: 20px;
+    width:40%;
+    heigth: 30%;
+    color:aliceblue;
+    background-color:black;
+
+}
